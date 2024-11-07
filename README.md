@@ -1,12 +1,19 @@
-# HearMeGLM
+# HearMeGLM 🌱
 
-# 声明🙂
-本项目实现心理咨询师的构思完全由我自己一个人想出，绝非人云亦云，看见别人做什么我就做什么。这个项目也花了我好多心思去实现，去写作，并敢于将代码上传以供查阅。感谢你愿意来到这里给予支持，谢谢(*^_^*)
+### *Empowering Mental Health through AI*
 
-# 项目简介😉
-HearMeGLM为这学期大语言模型期末Project作业，其目的是通过微调基座大语言模型ChatGLM-6b，以此实现一个心理咨询师角色的扮演。我希望这个简单的小项目存在的意义不只是对于作业的应付，更能够启发我自己对于心理健康问题的思考，以及作为一位AI专业的学生，我能够做出什么来为心理健康事业发展做出一份贡献。
+---
 
-# 参考
-ChatGLM-6b模型  https://github.com/THUDM/ChatGLM-6B
-CpsyCoun       https://github.com/CAS-SIAT-XinHai/CPsyCoun
-EmoLLM         https://github.com/SmartFlowAI/EmoLLM
+## 🌟 Project Statement
+HearMeGLM is the realization of a concept that I designed independently, not influenced by others' projects. This project has demanded a lot of thought, effort, and creativity to bring it to life, and I’m proud to share my code with the community. Thank you for visiting, and for your support in this endeavor! (*^_^*)
+
+## 📖 Project Overview
+HearMeGLM is my final project for this semester’s Large Language Models course. The goal is to fine-tune the ChatGLM-6B foundation model to create a virtual counselor, capable of engaging in empathetic and supportive dialogue. This project is not just an assignment but a way to deepen my understanding of mental health challenges, reflecting my aspirations to contribute to this field as an AI student. I hope HearMeGLM will inspire further ideas about how AI can support mental wellness.
+
+## 🔗 References
+- [ChatGLM-6B Model](https://github.com/THUDM/ChatGLM-6B)
+- [CPsyCoun](https://github.com/CAS-SIAT-XinHai/CPsyCoun)
+- [EmoLLM](https://github.com/SmartFlowAI/EmoLLM)
+
+
+
