@@ -1,6 +1,7 @@
 # 语言选择
 -English [English](README_en.md) 
 -简体中文 [Simplified Chinese](README_sc.md)
+-繁體中文 [Traditional Chinese](README_TC.md)
 
 
 # HearMeGLM 🌱
