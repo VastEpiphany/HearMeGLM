@@ -1,3 +1,6 @@
+#语言选择
+-English [english](README_en.md) 
+
 # HearMeGLM 🌱
 
 ### *Empowering Mental Health through AI*
