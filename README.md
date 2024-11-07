@@ -7,6 +7,9 @@
 # 注意/Notice：
 本文选取心理咨询师大语言模型微调的方向均为我一个人首先单独想出，并非模仿他人的随波逐流
 
+# 模型权重下载
+https://pan.baidu.com/s/188lEkCxcPLZpJ5WaMRtAlg?pwd=kqva
+
 # HearMeGLM 🌱
 
 ### *Empowering Mental Health through AI*
