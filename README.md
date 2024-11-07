@@ -9,3 +9,4 @@ HearMeGLM为这学期大语言模型期末Project作业，其目的是通过微�
 # 参考
 ChatGLM-6b模型  https://github.com/THUDM/ChatGLM-6B
 CpsyCoun       https://github.com/CAS-SIAT-XinHai/CPsyCoun
+EmoLLM         https://github.com/SmartFlowAI/EmoLLM
