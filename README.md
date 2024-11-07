@@ -1,4 +1,4 @@
-#语言选择
+# 语言选择
 -English [english](README_en.md) 
 
 # HearMeGLM 🌱
