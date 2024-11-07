@@ -1,0 +1,37 @@
+{
+  "added_tokens_decoder": {
+    "64795": {
+      "content": "<|user|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "64797": {
+      "content": "<|observation|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    }
+  },
+  "additional_special_tokens": [
+    "<|user|>",
+    "<|observation|>"
+  ],
+  "auto_map": {
+    "AutoTokenizer": [
+      "tokenization_chatglm.ChatGLMTokenizer",
+      null
+    ]
+  },
+  "clean_up_tokenization_spaces": false,
+  "do_lower_case": false,
+  "model_max_length": 1000000000000000019884624838656,
+  "padding_side": "left",
+  "remove_space": false,
+  "split_special_tokens": false,
+  "tokenizer_class": "ChatGLMTokenizer"
+}
