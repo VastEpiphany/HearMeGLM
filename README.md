@@ -4,6 +4,9 @@
 -繁體中文 [Traditional Chinese](README_tc.md)
 -日本語   [Japanese](README_jp.md)
 
+# 注意/Notice：
+本文选取心理咨询师大语言模型微调的方向均为我一个人首先单独想出，并非看见其他人做什么我就随波逐流
+
 # HearMeGLM 🌱
 
 ### *Empowering Mental Health through AI*
